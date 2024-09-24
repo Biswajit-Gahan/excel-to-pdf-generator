@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "xlsx": "^0.18.5"
+  },
+  "name": "excel-to-pdf-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "biswajit gahan",
+  "license": "ISC",
+  "description": ""
+}
